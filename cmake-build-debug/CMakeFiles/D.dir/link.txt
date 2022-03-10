@@ -1,0 +1,1 @@
+/usr/bin/cc -g -Wl,--enable-auto-import CMakeFiles/D.dir/SortNum.c.o -o D.exe -Wl,--out-implib,libD.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

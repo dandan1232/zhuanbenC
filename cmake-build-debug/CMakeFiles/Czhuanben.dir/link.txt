@@ -1,0 +1,1 @@
+/usr/bin/cc -g -Wl,--enable-auto-import CMakeFiles/Czhuanben.dir/main.c.o -o Czhuanben.exe -Wl,--out-implib,libCzhuanben.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
